@@ -2,7 +2,7 @@
   "name": "dinversion",
   "version": "1.0.0",
   "description": "Lightweight dependency inversion container for javascript",
-  "main": "dist/index.js",
+  "main": "dist/container.js",
   "jsnext:main": "src/container.js",
   "scripts": {
     "build": "gulp build",
