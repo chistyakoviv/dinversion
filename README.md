@@ -4,7 +4,7 @@ Lightweight dependency inversion container for javascript.
 
 ## Installation
 
-You can get the latest release and the type definitions using npm:
+You can get the latest release using npm:
 
 ```
 $ npm install dinversion --save
